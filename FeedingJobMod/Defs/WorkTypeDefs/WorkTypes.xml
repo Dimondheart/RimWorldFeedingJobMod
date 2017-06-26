@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<WorkTypeDefs>
+
+  <WorkTypeDef>
+    <defName>Feeding</defName>
+    <labelShort>Feed</labelShort>
+    <pawnLabel>Feeder</pawnLabel>
+    <gerundLabel>Feeding</gerundLabel>
+    <description>Take meals to prisoners and to the sick resting in bed.</description>
+    <verb>Feed</verb>
+    <naturalPriority>1280</naturalPriority>
+    <alwaysStartActive>false</alwaysStartActive>
+    <requireCapableColonist>true</requireCapableColonist>
+    <workTags>
+      <li>Caring</li>
+    </workTags>
+  </WorkTypeDef>
+  
+</WorkTypeDefs>

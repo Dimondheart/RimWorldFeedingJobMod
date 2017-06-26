@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<WorkGivers>
+
+  <WorkGiverDef>
+    <defName>FeederFeedHumanlikes</defName>
+    <label>feed patients</label>
+    <giverClass>WorkGiver_FeedPatient</giverClass>
+    <workType>Feeding</workType>
+    <verb>feed</verb>
+    <gerund>feeding</gerund>
+    <priorityInType>60</priorityInType>
+    <requiredCapacities>
+      <li>Manipulation</li>
+    </requiredCapacities>
+    <prioritizeSustains>true</prioritizeSustains>
+    <feedHumanlikesOnly>true</feedHumanlikesOnly>
+  </WorkGiverDef>
+
+  <WorkGiverDef>
+    <defName>FeederFeedAnimals</defName>
+    <label>feed animals</label>
+    <giverClass>WorkGiver_FeedPatient</giverClass>
+    <workType>Feeding</workType>
+    <verb>feed</verb>
+    <gerund>feeding</gerund>
+    <priorityInType>30</priorityInType>
+    <requiredCapacities>
+      <li>Manipulation</li>
+    </requiredCapacities>
+    <prioritizeSustains>true</prioritizeSustains>
+    <feedAnimalsOnly>true</feedAnimalsOnly>
+  </WorkGiverDef>
+
+</WorkGivers>

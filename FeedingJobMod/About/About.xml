@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Feeding Job Mod</name>
+  <author>Bryan Bettis</author>
+  <description>This mod creates a separate job called "Feed," which takes care of feeding prisoners (instead of having a warden do it,) and is also a way to allow non-doctor pawns to feed injured/infected pawns and pets in bed. Feeding prisoners is set as a higher priority than feeding colonists, since doctors can still feed patients as needed.</description>
+  <targetVersion>0.17.1557</targetVersion>
+</ModMetaData>
