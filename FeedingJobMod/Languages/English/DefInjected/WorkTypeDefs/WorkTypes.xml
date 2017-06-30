@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <Feeding.labelShort>Feed</Feeding.labelShort>
+    <Feeding.pawnLabel>Feeder</Feeding.pawnLabel>
+    <Feeding.gerundLabel>Feeding</Feeding.gerundLabel>
+    <Feeding.description>Take meals to prisoners and to the sick resting in bed.</Feeding.description>
+    <Feeding.verb>Feed</Feeding.verb>
+
+</LanguageData>

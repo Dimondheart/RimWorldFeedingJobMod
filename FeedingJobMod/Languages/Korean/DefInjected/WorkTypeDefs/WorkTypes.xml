@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <Feeding.labelShort>식사 공급</Feeding.labelShort>
+    <Feeding.pawnLabel>식사 공급자</Feeding.pawnLabel>
+    <Feeding.gerundLabel>식사 공급</Feeding.gerundLabel>
+    <Feeding.description>Take meals to prisoners and to the sick resting in bed.</Feeding.description>
+    <Feeding.verb>식사 공급</Feeding.verb>
+
+</LanguageData>

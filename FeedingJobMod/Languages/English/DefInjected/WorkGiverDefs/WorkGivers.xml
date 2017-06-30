@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <FeederFeedHumanlikes.label>feed patients</FeederFeedHumanlikes.label>
+    <FeederFeedHumanlikes.verb>feed</FeederFeedHumanlikes.verb>
+    <FeederFeedHumanlikes.gerund>feeding</FeederFeedHumanlikes.gerund>
+
+    <FeederFeedAnimals.label>feed animals</FeederFeedAnimals.label>
+    <FeederFeedAnimals.verb>feed</FeederFeedAnimals.verb>
+    <FeederFeedAnimals.gerund>feeding</FeederFeedAnimals.gerund>
+
+</LanguageData>

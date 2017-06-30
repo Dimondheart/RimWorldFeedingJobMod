@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <FeederFeedHumanlikes.label>환자 먹이기</FeederFeedHumanlikes.label>
+    <FeederFeedHumanlikes.verb>식사 전달</FeederFeedHumanlikes.verb>
+    <FeederFeedHumanlikes.gerund>식사 전달</FeederFeedHumanlikes.gerund>
+
+    <FeederFeedAnimals.label>동물 먹이기</FeederFeedAnimals.label>
+    <FeederFeedAnimals.verb>먹이 전달</FeederFeedAnimals.verb>
+    <FeederFeedAnimals.gerund>먹이 전달</FeederFeedAnimals.gerund>
+
+</LanguageData>
